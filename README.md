@@ -366,7 +366,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
  <img border="0" alt="Mathieu's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
- <a href="https://www.linkedin.com/in/mathieu-sauveur-a75805209/">
+ <a href="https://www.linkedin.com/in/mathieu-sauveur/">
  
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
