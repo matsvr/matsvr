@@ -43,31 +43,32 @@ I am Mathieu Sauveur, a passionate Data Scientist in the making and ML/AI enthus
 
 #### 3. [Data Visualization : How to properly visualize Baby Names 📈](#)
 **Institution:** TELECOM PARIS  
-**Description:** 
+**Description:** This project leverages Dash to develop interactive visualizations that explore the evolution of popular first names in France from 1900 to 2020. By presenting key trends and insights, the project aims to provide a comprehensive analysis of naming patterns over time. *Overview*: Utilizing two datasets—one with national-level data and another with department-level details—this project creates three distinct visualizations. Each visualization is designed to address specific queries, offering a unique perspective on the data. This project demonstrates the power of data in revealing societal and cultural shifts through something as personal as naming conventions.
 
 ---
 
 #### 4. [Exploratory Data Analysis (EDA): Basic and Advanced knowledges 🔍](#)
 **Institution:** TELECOM PARIS
-**Description:** 
+**TP1 - EDA Techniques for Recipe Data Analysis:**: We explored various EDA techniques to gain an initial understanding of the dataset. We performed univariate, bivariate, and multivariate analysis on features such as user activity, recipe popularity, and ingredient usage. Additionally, we examined correlations between different variables to identify trends and patterns in the dataset. This first step helped set the foundation for further data-driven tasks.
+**TP2 - Identifying Super-Users through Activity Metrics:** In the second task, the focus was on defining a business-relevant problem and solving it through comprehensive data manipulation. The main challenge was to identify the top 5% of the most active users, who would be classified as super-users to receive special benefits on the platform. Several metrics were taken into account to measure user activity (such as recipe submissions, ratings or reviews posted, recency of contributions...)
 
 ---
 
 #### 5. [HADOOP from scratch : Manipulate Distributed Systems for Big Data 🏗️](#)
 **Institution:** TELECOM PARIS 
-**Description:** 
+**Description:** This project explores the transition from sequential programming to distributed systems using the Hadoop MapReduce framework. Starting with sequential execution of tasks, the project evaluates performance on various file sizes. It then introduces basic networking concepts for distributed computing. Finally, the project implements Hadoop’s MapReduce from scratch to compare the performance of distributed systems with sequential execution, highlighting the practical application of Amdahl's Law to measure speedup as the number of cores increases.
 
 ---
 
 #### 6. [Comprehensive Big Data Processing with the Hadoop Ecosystem 🐘](#)
 **Institution:** TELECOM PARIS 
-**Description:** 
+**Description:** This project aimed to explore the capabilities of distributed processing technologies. We set up a Hadoop ecosystem, including HBase, Zookeeper, HDFS, YARN, and Spark, configured in a cluster using a network of computers provided by our institution. The second objective was to apply these technologies to analyze a substantial dataset of 3.3 GB of flight prices, ultimately yielding valuable insights into pricing trends.
 
 ---
 
 #### 7. [NoSQL Project: Graph Data Management and Analysis with Neo4j 🕸️](#)
 **Institution:** TELECOM PARIS 
-**Description:** 
+**Description:** For this NoSQL project, we were tasked with selecting a non-relational database to store a large volume of data and perform queries to validate its structure and functionality. We chose Neo4J, a graph-oriented database, and worked with 5 GB (out of the 100 GB originally downloaded) of user-generated data from StackOverflow, sourced via BigQuery. The main challenge was to efficiently import this large dataset using a distributed data pipeline that we built, ensuring proper setup of the database (correct nodes, edges, indexes implementation...). After setting up the database, we tested its performance by running various Cypher queries to address specific questions we had formulated, successfully validating the storage and querying capabilities of our Neo4J implementation.
 
 ---
 
