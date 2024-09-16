@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Mathieu-Sauveur&style=flat&color=blue)
-
 <h1 align="center">Hi! 👋, I'm Mathieu</h1>
 
 <div align="center" style="border: px solid #000000;">
@@ -388,6 +386,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 
 #### <p align="center"><b>I appreciate you taking the time to check out my profile 🙌😊</b></p>
 
+![](https://komarev.com/ghpvc/?username=Mathieu-Sauveur&style=flat&color=blue)
 
 <!---
 matsvr/matsvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
