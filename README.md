@@ -10,7 +10,7 @@
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
  </p>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b> <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>   
 I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enthusiast**. I specialize in Big Data, Machine Learning, and AI-driven solutions. With a focus on turning data into actionable insights, I love working on real-world projects that solve complex problems. I'm always eager to learn, collaborate, and contribute to innovative solutions in the data science community.
 
 <br>
