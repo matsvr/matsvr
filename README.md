@@ -31,7 +31,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 ## <b>📂 An overview of my pojects & work done</b>
 
 <details>
-<summary><b>1. [Projet Data Science – Fil rouge : Social Data Hub & AI 🧠](#)</b></summary>
+<summary><b>1. Projet Data Science – Fil rouge : Social Data Hub & AI 🧠</b></summary>
 <br>
 <b>Institution:</b> TELECOM PARIS x CHANEL  
 <br>
@@ -41,7 +41,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 ---
 
 <details>
-<summary><b>2. [Kit Big Data Project : ToDoList 📝](#)</b></summary>
+<summary><b>2. Kit Big Data Project : ToDoList 📝</b></summary>
 <br>
 <b>Institution:</b> TELECOM PARIS  
 <br>
@@ -51,7 +51,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 ---
 
 <details>
-<summary><b>3. [Data Visualization : How to properly visualize Baby Names 📈](#)</b></summary>
+<summary><b>3. Data Visualization : How to properly visualize Baby Names 📈</b></summary>
 <br>
 <b>Institution:</b> TELECOM PARIS  
 <br>
@@ -61,7 +61,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 ---
 
 <details>
-<summary><b>4. [Exploratory Data Analysis (EDA): Basic and Advanced knowledges 🔍](#)</b></summary>
+<summary><b>4. Exploratory Data Analysis (EDA): Basic and Advanced knowledges 🔍</b></summary>
 <br>
 <b>Institution:</b> TELECOM PARIS  
 <br>
@@ -73,7 +73,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 ---
 
 <details>
-<summary><b>5. [HADOOP from scratch : Manipulate Distributed Systems for Big Data 🏗️](#)</b></summary>
+<summary><b>5. Hadoop from scratch : Manipulate Distributed Systems for Big Data 🏗️</b></summary>
 <br>
 <b>Institution:</b> TELECOM PARIS  
 <br>
@@ -83,7 +83,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 ---
 
 <details>
-<summary><b>6. [Comprehensive Big Data Processing with the Hadoop Ecosystem 🐘](#)</b></summary>
+<summary><b>6. Comprehensive Big Data Processing with the Hadoop Ecosystem 🐘</b></summary>
 <br>
 <b>Institution:</b> TELECOM PARIS  
 <br>
@@ -93,7 +93,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 ---
 
 <details>
-<summary><b>7. [NoSQL Project: Graph Data Management and Analysis with Neo4j 🕸️](#)</b></summary>
+<summary><b>7. NoSQL Project: Graph Data Management and Analysis with Neo4j 🕸️</b></summary>
 <br>
 <b>Institution:</b> TELECOM PARIS  
 <br>
@@ -103,7 +103,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 ---
 
 <details>
-<summary><b>[APPENDIX] [Big Data Security Project: Manipulating the ELK Stack 🔒](#)</b></summary>
+<summary><b>[APPENDIX] Big Data Security Project: Manipulating the ELK Stack 🔒</b></summary>
 <br>
 <b>Institution:</b> TELECOM PARIS  
 <br>
@@ -113,7 +113,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 ---
 
 <details>
-<summary><b>[APPENDIX] [Data and IoT: Smart Irrigation for Sugarcane Cultivation 📡](#)</b></summary>
+<summary><b>[APPENDIX] Data and IoT: Smart Irrigation for Sugarcane Cultivation 📡</b></summary>
 <br>
 <b>Institution:</b> TELECOM PARIS  
 <br>
@@ -125,7 +125,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 ## 📊 Data Challenges I Participated In 
 
 <details>
-<summary><b>1. [Fair Document Classification with BERT with sensitive attributes managing 📄](#)</b></summary>
+<summary><b>1. Fair Document Classification with BERT with sensitive attributes managing 📄</b></summary>
 <br>
 <b>Institution:</b> TELECOM PARIS  
 <br>
@@ -137,7 +137,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 ---
 
 <details>
-<summary><b>2. [Advanced Machine Learning : Face Occlusion Prediction with Gender Parity 👤](#)</b></summary>
+<summary><b>2. Advanced Machine Learning : Face Occlusion Prediction with Gender Parity 👤</b></summary>
 <br>
 <b>Institution:</b> TELECOM PARIS x IDEMIA  
 <br>
