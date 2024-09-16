@@ -297,12 +297,12 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 
 <br>
 
-<!---
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=matsvr&show_icons=true&locale=en&layout=compact&theme=tokyonight"></p>
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=matsvr&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"></p>
 <br>
---->
+
 
 <br>
 
