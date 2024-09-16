@@ -30,72 +30,121 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 
 ## <b>📂 An overview of my pojects & work done</b>
 
-#### 1. [Projet Data Science – Fil rouge : Social Data Hub & AI 🧠](#)
-**Institution:** TELECOM PARIS x CHANEL  
-**Description:** Developed optimized machine learning models to analyze social media data, detect trends, and extract insights using Sentiment Analysis and Named Entity Recognition (NER). Created an automated workflow for pipeline management, with dashboard solutions tailored for business needs.
+<details>
+<summary><b>1. [Projet Data Science – Fil rouge : Social Data Hub & AI 🧠](#)</b></summary>
+<br>
+<b>Institution:</b> TELECOM PARIS x CHANEL  
+<br>
+<b>Description:</b> Developed optimized machine learning models to analyze social media data, detect trends, and extract insights using Sentiment Analysis and Named Entity Recognition (NER). Created an automated workflow for pipeline management, with dashboard solutions tailored for business needs.
+</details>
 
 ---
 
-#### 2. [Kit Big Data Project : ToDoList 📝](#)
-**Institution:** TELECOM PARIS  
-**Description:** This project focuses on developing a Python library for managing tasks, projects, and resources in a project management company. It includes implementing features such as task management (To-Do List), object-oriented programming, type hinting, logging, exception handling, and adhering to PEP 8 standards. The project also covers environment management with Poetry, unit testing with Pytest, code coverage, securisation, documentation using Sphinx, and setting up a CI/CD pipeline with GitHub Actions.
+<details>
+<summary><b>2. [Kit Big Data Project : ToDoList 📝](#)</b></summary>
+<br>
+<b>Institution:</b> TELECOM PARIS  
+<br>
+<b>Description:</b> This project focuses on developing a Python library for managing tasks, projects, and resources in a project management company. It includes implementing features such as task management (To-Do List), object-oriented programming, type hinting, logging, exception handling, and adhering to PEP 8 standards. The project also covers environment management with Poetry, unit testing with Pytest, code coverage, securisation, documentation using Sphinx, and setting up a CI/CD pipeline with GitHub Actions.
+</details>
 
 ---
 
-#### 3. [Data Visualization : How to properly visualize Baby Names 📈](#)
-**Institution:** TELECOM PARIS  
-**Description:** This project leverages Dash to develop interactive visualizations that explore the evolution of popular first names in France from 1900 to 2020. By presenting key trends and insights, the project aims to provide a comprehensive analysis of naming patterns over time. *Overview*: Utilizing two datasets—one with national-level data and another with department-level details—this project creates three distinct visualizations. Each visualization is designed to address specific queries, offering a unique perspective on the data. This project demonstrates the power of data in revealing societal and cultural shifts through something as personal as naming conventions.
+<details>
+<summary><b>3. [Data Visualization : How to properly visualize Baby Names 📈](#)</b></summary>
+<br>
+<b>Institution:</b> TELECOM PARIS  
+<br>
+<b>Description:</b> This project leverages Dash to develop interactive visualizations that explore the evolution of popular first names in France from 1900 to 2020. By presenting key trends and insights, the project aims to provide a comprehensive analysis of naming patterns over time. *Overview*: Utilizing two datasets—one with national-level data and another with department-level details—this project creates three distinct visualizations. Each visualization is designed to address specific queries, offering a unique perspective on the data. This project demonstrates the power of data in revealing societal and cultural shifts through something as personal as naming conventions.
+</details>
 
 ---
 
-#### 4. [Exploratory Data Analysis (EDA): Basic and Advanced knowledges 🔍](#)
-**Institution:** TELECOM PARIS  
-**TP1 - EDA Techniques for Recipe Data Analysis:**: We explored various EDA techniques to gain an initial understanding of the dataset. We performed univariate, bivariate, and multivariate analysis on features such as user activity, recipe popularity, and ingredient usage. Additionally, we examined correlations between different variables to identify trends and patterns in the dataset. This first step helped set the foundation for further data-driven tasks.  
-**TP2 - Identifying Super-Users through Activity Metrics:** In the second task, the focus was on defining a business-relevant problem and solving it through comprehensive data manipulation. The main challenge was to identify the top 5% of the most active users, who would be classified as super-users to receive special benefits on the platform. Several metrics were taken into account to measure user activity (such as recipe submissions, ratings or reviews posted, recency of contributions...)
+<details>
+<summary><b>4. [Exploratory Data Analysis (EDA): Basic and Advanced knowledges 🔍](#)</b></summary>
+<br>
+<b>Institution:</b> TELECOM PARIS  
+<br>
+<b>TP1 - EDA Techniques for Recipe Data Analysis:</b> We explored various EDA techniques to gain an initial understanding of the dataset. We performed univariate, bivariate, and multivariate analysis on features such as user activity, recipe popularity, and ingredient usage. Additionally, we examined correlations between different variables to identify trends and patterns in the dataset. This first step helped set the foundation for further data-driven tasks.  
+<br>
+<b>TP2 - Identifying Super-Users through Activity Metrics:</b> In the second task, the focus was on defining a business-relevant problem and solving it through comprehensive data manipulation. The main challenge was to identify the top 5% of the most active users, who would be classified as super-users to receive special benefits on the platform. Several metrics were taken into account to measure user activity (such as recipe submissions, ratings or reviews posted, recency of contributions...)
+</details>
 
 ---
 
-#### 5. [HADOOP from scratch : Manipulate Distributed Systems for Big Data 🏗️](#)
-**Institution:** TELECOM PARIS  
-**Description:** This project explores the transition from sequential programming to distributed systems using the Hadoop MapReduce framework. Starting with sequential execution of tasks, the project evaluates performance on various file sizes. It then introduces basic networking concepts for distributed computing. Finally, the project implements Hadoop’s MapReduce from scratch to compare the performance of distributed systems with sequential execution, highlighting the practical application of Amdahl's Law to measure speedup as the number of cores increases.
+<details>
+<summary><b>5. [HADOOP from scratch : Manipulate Distributed Systems for Big Data 🏗️](#)</b></summary>
+<br>
+<b>Institution:</b> TELECOM PARIS  
+<br>
+<b>Description:</b> This project explores the transition from sequential programming to distributed systems using the Hadoop MapReduce framework. Starting with sequential execution of tasks, the project evaluates performance on various file sizes. It then introduces basic networking concepts for distributed computing. Finally, the project implements Hadoop’s MapReduce from scratch to compare the performance of distributed systems with sequential execution, highlighting the practical application of Amdahl's Law to measure speedup as the number of cores increases.
+</details>
 
 ---
 
-#### 6. [Comprehensive Big Data Processing with the Hadoop Ecosystem 🐘](#)
-**Institution:** TELECOM PARIS  
-**Description:** This project aimed to explore the capabilities of distributed processing technologies. We set up a Hadoop ecosystem, including HBase, Zookeeper, HDFS, YARN, and Spark, configured in a cluster using a network of computers provided by our institution. The second objective was to apply these technologies to analyze a substantial dataset of 3.3 GB of flight prices, ultimately yielding valuable insights into pricing trends.
+<details>
+<summary><b>6. [Comprehensive Big Data Processing with the Hadoop Ecosystem 🐘](#)</b></summary>
+<br>
+<b>Institution:</b> TELECOM PARIS  
+<br>
+<b>Description:</b> This project aimed to explore the capabilities of distributed processing technologies. We set up a Hadoop ecosystem, including HBase, Zookeeper, HDFS, YARN, and Spark, configured in a cluster using a network of computers provided by our institution. The second objective was to apply these technologies to analyze a substantial dataset of 3.3 GB of flight prices, ultimately yielding valuable insights into pricing trends.
+</details>
 
 ---
 
-#### 7. [NoSQL Project: Graph Data Management and Analysis with Neo4j 🕸️](#)
-**Institution:** TELECOM PARIS  
-**Description:** For this NoSQL project, we were tasked with selecting a non-relational database to store a large volume of data and perform queries to validate its structure and functionality. We chose Neo4J, a graph-oriented database, and worked with 5 GB (out of the 100 GB originally downloaded) of user-generated data from StackOverflow, sourced via BigQuery. The main challenge was to efficiently import this large dataset using a distributed data pipeline that we built, ensuring proper setup of the database (correct nodes, edges, indexes implementation...). After setting up the database, we tested its performance by running various Cypher queries to address specific questions we had formulated, successfully validating the storage and querying capabilities of our Neo4J implementation.
+<details>
+<summary><b>7. [NoSQL Project: Graph Data Management and Analysis with Neo4j 🕸️](#)</b></summary>
+<br>
+<b>Institution:</b> TELECOM PARIS  
+<br>
+<b>Description:</b> For this NoSQL project, we were tasked with selecting a non-relational database to store a large volume of data and perform queries to validate its structure and functionality. We chose Neo4J, a graph-oriented database, and worked with 5 GB (out of the 100 GB originally downloaded) of user-generated data from StackOverflow, sourced via BigQuery. The main challenge was to efficiently import this large dataset using a distributed data pipeline that we built, ensuring proper setup of the database (correct nodes, edges, indexes implementation...). After setting up the database, we tested its performance by running various Cypher queries to address specific questions we had formulated, successfully validating the storage and querying capabilities of our Neo4J implementation.
+</details>
 
 ---
 
-#### [APPENDIX] [Big Data Security Project: Manipulating the ELK Stack 🔒](#)
-**Institution:** TELECOM PARIS  
-**Description:** In this project, we set up and manipulated the ELK (Elasticsearch, Logstash, Kibana) stack to efficiently search, analyze, and visualize large datasets. The project involved building a virtual environment using VirtualBox, Vagrant, or Docker and installing the ELK stack along with PacketBeat. PacketBeat was used to parse and index network data from PCAP files into Elasticsearch, while a customized Kibana dashboard was developed to present and analyze the data through various visual widgets. The goal was to demonstrate the full potential of the ELK stack in creating a robust data pipeline for network monitoring and real-time data visualization.
+<details>
+<summary><b>[APPENDIX] [Big Data Security Project: Manipulating the ELK Stack 🔒](#)</b></summary>
+<br>
+<b>Institution:</b> TELECOM PARIS  
+<br>
+<b>Description:</b> In this project, we set up and manipulated the ELK (Elasticsearch, Logstash, Kibana) stack to efficiently search, analyze, and visualize large datasets. The project involved building a virtual environment using VirtualBox, Vagrant, or Docker and installing the ELK stack along with PacketBeat. PacketBeat was used to parse and index network data from PCAP files into Elasticsearch, while a customized Kibana dashboard was developed to present and analyze the data through various visual widgets. The goal was to demonstrate the full potential of the ELK stack in creating a robust data pipeline for network monitoring and real-time data visualization.
+</details>
 
 ---
 
-### [APPENDIX] [Data and IoT: Smart Irrigation for Sugarcane Cultivation 📡](#)
-**Institution:** TELECOM PARIS  
-**Description:** This project focuses on optimizing irrigation for sugarcane cultivation in tropical regions. Due to the high water demand of sugarcane, improper irrigation can lead to significant water loss. By leveraging IoT sensors to monitor meteorological conditions like sunlight and humidity (given or generated data), this solution aims to adjust irrigation based on real-time environmental data, reducing water waste and maximizing crop yield. The system benefits farmers by improving crop profitability and allows service providers to gather valuable weather data for potential resale or further analysis.  
+<details>
+<summary><b>[APPENDIX] [Data and IoT: Smart Irrigation for Sugarcane Cultivation 📡](#)</b></summary>
+<br>
+<b>Institution:</b> TELECOM PARIS  
+<br>
+<b>Description:</b> This project focuses on optimizing irrigation for sugarcane cultivation in tropical regions. Due to the high water demand of sugarcane, improper irrigation can lead to significant water loss. By leveraging IoT sensors to monitor meteorological conditions like sunlight and humidity (given or generated data), this solution aims to adjust irrigation based on real-time environmental data, reducing water waste and maximizing crop yield. The system benefits farmers by improving crop profitability and allows service providers to gather valuable weather data for potential resale or further analysis.
+</details>
 
 <br>
 
 ## 📊 Data Challenges I Participated In 
 
-#### 1. [Fair Document Classification with BERT with sensitive attributes managing 📄](#)  
-**Institution:** TELECOM PARIS  
-**Description:** The goal here was to develop a solution for multi-class document classification using embeddings generated by BERT. We were asked to ensure both accuracy and fairness in predicting labels across 28 categories while addressing sensitive attributes such as gender. The project involved extensive data preprocessing, Exploratory Data Analysis (EDA), and implementation of machine learning models to mitigate bias and improve classification performance. 
+<details>
+<summary><b>1. [Fair Document Classification with BERT with sensitive attributes managing 📄](#)</b></summary>
+<br>
+<b>Institution:</b> TELECOM PARIS  
+<br>
+<b>Ranking:</b> 6/47  
+<br>
+<b>Description:</b> The goal here was to develop a solution for multi-class document classification using embeddings generated by BERT. We were asked to ensure both accuracy and fairness in predicting labels across 28 categories while addressing sensitive attributes such as gender. The project involved extensive data preprocessing, Exploratory Data Analysis (EDA), and implementation of machine learning models to mitigate bias and improve classification performance.
+</details>
 
 ---
 
-#### 2. [Advanced Machine Learning : Face Occlusion Prediction with Gender Parity 👤](#)  
-**Institution:** TELECOM PARIS x IDEMIA  
-**Description:** In this data challenge, the goal is to predict the percentage of face occlusion based on a dataset of 100,000 human face images. The challenge also emphasizes achieving similar prediction performance across both genders, with gender labels provided for training. The evaluation metric involves calculating the error for both male and female faces separately, and then combining the errors to produce a final score, encouraging fairness in model predictions for both genders.  
+<details>
+<summary><b>2. [Advanced Machine Learning : Face Occlusion Prediction with Gender Parity 👤](#)</b></summary>
+<br>
+<b>Institution:</b> TELECOM PARIS x IDEMIA  
+<br>
+<b>Ranking:</b> 9/47  
+<br>
+<b>Description:</b> In this data challenge, the goal is to predict the percentage of face occlusion based on a dataset of 100,000 human face images. The challenge also emphasizes achieving similar prediction performance across both genders, with gender labels provided for training. The evaluation metric involves calculating the error for both male and female faces separately, and then combining the errors to produce a final score, encouraging fairness in model predictions for both genders.
+</details> 
 
 <br>
 
