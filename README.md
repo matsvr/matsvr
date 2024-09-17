@@ -193,6 +193,10 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
     <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white"/>
   </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white">
+  </a>
 </p>
 
 <div align="center">
