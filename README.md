@@ -26,7 +26,7 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
 <br>
 <br>
 
-## <b>📂 An overview of my pojects & work done</b>
+## <b>📂 An overview of my pojects & work done (Click on the element to view details)</b>
 
 <details>
 <summary><b>1. Projet Data Science – Fil rouge : Social Data Hub & AI 🧠</b></summary>
