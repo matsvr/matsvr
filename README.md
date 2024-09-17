@@ -320,6 +320,9 @@ I am Mathieu Sauveur, a passionate **Data Scientist in the making and ML/AI enth
  <a href="https://matplotlib.org/" target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%2315094E.svg?logo=matplotlib&logoColor=white"></a>
  <a href="https://dash.plotly.com/" target="_blank"><img alt="Dash" src="https://img.shields.io/badge/Dash-%230078D4.svg?logo=plotly&logoColor=white"></a>
  <a href="https://streamlit.io/" target="_blank"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%FF4B4B.svg?logo=streamlit&logoColor=white"></a>
+ <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-005571.svg?logo=elasticsearch&logoColor=white"></a>
+ <a href="https://www.elastic.co/logstash/" target="_blank"><img alt="Logstash" src="https://img.shields.io/badge/Logstash-005571.svg?logo=logstash&logoColor=white"></a>
+ <a href="https://www.elastic.co/kibana/" target="_blank"><img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571.svg?logo=kibana&logoColor=white"></a>
  <a href="https://thingsboard.io/" target="_blank"><img alt="ThingsBoard" src="https://img.shields.io/badge/ThingsBoard-%230073C5.svg?logo=thingsboard&logoColor=white"></a>
  <a href="https://www.canva.com/" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white"></a>
  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
